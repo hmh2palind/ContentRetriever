@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PGWSUpdateNotice>
+    <updateEvent>UPDATE_CONTENT_DETAIL</updateEvent>
+    <channelsWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <schedulesWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <zipCodeMappingWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <streamConfigsWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <logosWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <sportsTeamsWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <continuousServiceWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <contentDetailWrapper>
+		<!-- TODO -->
+    </contentDetailWrapper>
+    <nlpgwsProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <trailer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <upcomingMoviesWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <contentAuthorizationsWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <channelPackagesWrapper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+</PGWSUpdateNotice>
+<!-- THIS IS A TEST DELTA FILE CREATED BY: HungHM. Update content_detail -->
